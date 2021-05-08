@@ -57,7 +57,9 @@ This file contains the labels of 80 different classes considered for training yo
 
 # Results
 
+### Objects detected on sample image
 ![image](https://user-images.githubusercontent.com/83395271/117542883-1ad8b900-b038-11eb-893b-fd1f1753d3e1.png)
 
+### Objects detected on Live video
 ![image](https://user-images.githubusercontent.com/83395271/117542914-35129700-b038-11eb-9547-a4dfeb40dea8.png)
 
